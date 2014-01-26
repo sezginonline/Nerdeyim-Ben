@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nerdeyim Ben</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="hello_world">Nerdeyim Ben uygulamasıyla buluşmalarınız daha rahat gerçekleşsin. \n\nNerede olduğunuzu arkadaşınıza bildirmenin en kısa yolu: &quot;Nerdeyim Ben&quot;</string>
+    <string name="nerdeyim_ben">Nerdeyim Ben</string>
+    <string name="copyright">Nerdeyim Ben, bir HaberTrend uygulamasıdır. </string>
+    <string name="title_activity_map">Nerdeyim Ben</string>
+
+</resources>
