@@ -11,4 +11,4 @@ Programı indirmek ve kullanmak ücretsizdir. Programın yönlendirdiği SMS ekr
 
 https://play.google.com/store/apps/details?id=com.habertrend.nerdeyimben
 
-Türkçe sayfa: https://play.google.com/store/apps/details?id=com.habertrend.nerdeyimben&hl=tr
+Türkçe sayfa: [Nerdeyim Ben](https://play.google.com/store/apps/details?id=com.habertrend.nerdeyimben&hl=tr)
