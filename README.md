@@ -12,5 +12,3 @@ Programı indirmek ve kullanmak ücretsizdir. Programın yönlendirdiği SMS ekr
 Google Play Nerdeyim Ben: [Nerdeyim Ben](https://play.google.com/store/apps/details?id=com.habertrend.nerdeyimben&hl=tr)
 
 Google Play Nerdeyim Ben Gold: [Nerdeyim Ben Gold](https://play.google.com/store/apps/details?id=com.habertrend.nerdeyimbengold&hl=tr)
-
-Google Play Arabam Nerede?: [Arabam Nerede?](https://play.google.com/store/apps/details?id=com.habertrend.arabamnerede&hl=tr)
